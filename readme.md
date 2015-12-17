@@ -1,4 +1,3 @@
-# Don't have time nor motivation to keep updating this project #
 
 # NYXImagesKit #
 
